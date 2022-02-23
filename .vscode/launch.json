@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-CalculadoraImcApplication<calculadora-imc>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "br.com.impacta.imc.calculadoraimc.CalculadoraImcApplication",
+      "projectName": "calculadora-imc",
+      "args": ""
+    }
+  ]
+}
